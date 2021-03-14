@@ -11,7 +11,7 @@ repository to us and provide a comprehensive README. Also provide us with the de
 - Downloaded the SDK Code.
 - Modified the code and loaded the PreRoll, MidRoll and PostRoll ads.
 - Midroll will be loaded at 10th Second.
-- SDK is very cool, It's very clear code and major interesting points to note or learn for Displaying the code is the VideoActivityPlayer and
+- SDK is very cool, It's very clear code and major interesting points to note or learn for Displaying the ads are the VideoActivityPlayer, PulseManager and
 values such as MidRollPosition, ContentUrl, DataTags etc.. It was very Interesting to Integrate the SDk. 
 
 Thanks!
